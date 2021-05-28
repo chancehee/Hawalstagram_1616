@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Hawalstagram_1616"

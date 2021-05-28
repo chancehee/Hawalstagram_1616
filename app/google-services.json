@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91810945399",
+    "project_id": "hawalstagram-1616",
+    "storage_bucket": "hawalstagram-1616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91810945399:android:9c25f1fda722cf22f3e972",
+        "android_client_info": {
+          "package_name": "com.example.hawalstagram_1616"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91810945399-73iu90hj21e8n0ps64lv8t0buirnvoh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMNwdAby3t24C7lvQy7HBhpqkUJGmETs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91810945399-73iu90hj21e8n0ps64lv8t0buirnvoh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
